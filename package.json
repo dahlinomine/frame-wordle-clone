@@ -1,0 +1,14 @@
+{
+  "name": "frame-wordle-clone",
+  "version": "0.1.0",
+  "description": "The viral word game adapted for Farcaster Frames",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
